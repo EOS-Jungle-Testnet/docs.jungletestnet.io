@@ -1,6 +1,6 @@
 [build]
   base    = "./"
-  command = "npm install -g docusaurus; cd website/; npm install; npm run build;"
+  command = "npm install -g docusaurus; cd website/; yarn install; yarn run build;"
   publish = "./website/build/docs.jungletestnet.io"
 
 [build.environment]
