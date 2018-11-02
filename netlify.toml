@@ -1,6 +1,6 @@
 [build]
   base    = "./"
-  command = "cd website/; yarn install; yarn run build;"
+  command = "yarn global add docusaurus; cd website/; yarn install; yarn run build;"
   publish = "./website/build/docs.jungletestnet.io"
 
 [build.environment]
