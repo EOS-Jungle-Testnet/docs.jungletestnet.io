@@ -14,11 +14,11 @@
 </p>
 
 ## Description 
-EOS Jungle Testnet Documentation Website [jungletestnet.io](http://jungletestnet.io)
+EOS Jungle Testnet Documentation Website [docs.jungletestnet.io](http://docs.jungletestnet.io)
 
 ## Contributing
 
-We use a Kanban-style board to prioritize the work. [Go to Project Board](https://github.com/EOS-Jungle-Testnet/docs.jungletestnet.io/projects/4).
+We use a Kanban-style board to prioritize the work. [Go to Project Board](https://github.com/EOS-Jungle-Testnet/docs.jungletestnet.io/projects/1).
 
 The main communication channels are [github issues](https://github.com/EOS-Jungle-Testnet/docs.jungletestnet.io/issues) and the [Jungle's Discord server](https://discord.gg/84REyeN). Feel to join and ask as many questions you may have.
 
