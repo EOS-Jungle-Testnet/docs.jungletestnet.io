@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://jungletestnet.io">
-		<img src="images/logo1-jungletestnet.png" >
+		<img src="logo.png" >
 	</a>
 </p>
 
