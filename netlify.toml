@@ -1,9 +1,7 @@
 [build]
   base    = "./"
-  command = "npm install -g docusaurus; cd website/; yarn install; yarn run build;"
+  command = "npm install -g docusaurus; cd website/; npm install; npm run build;"
   publish = "./website/build/docs.jungletestnet.io"
 
 [build.environment]
   NODE_VERSION = "10.12.0"
-  YARN_FLAGS = "--ignore-optional --frozen-lockfile --network-timeout 1000000 --network-concurrency 1 --verbose"
-  # TODO: fix YARN_FLAGS have no effect http://bit.ly/2EJukN0  https://git.io/fx1xy
