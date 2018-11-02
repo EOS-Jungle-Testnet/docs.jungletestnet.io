@@ -1,6 +1,6 @@
 [build]
   base    = "./"
-  command = "npx docusaurus-init .; cd website/; yarn install; yarn run build;"
+  command = "cd website/; yarn install; yarn run build;"
   publish = "./website/build/docs.jungletestnet.io"
 
 [build.environment]
