@@ -22,7 +22,7 @@ We use a Kanban-style board to prioritize the work. [Go to Project Board](https:
 
 The main communication channels are [github issues](https://github.com/EOS-Jungle-Testnet/docs.jungletestnet.io/issues) and the [Jungle's Discord server](https://discord.gg/84REyeN). Feel to join and ask as many questions you may have.
 
-Contributing Guidelines. [https://learn.eoscostarica.io/open-source/](https://learn.eoscostarica.io/open-source/).
+Contributing Guidelines. [https://developers.eoscostarica.io/docs/open-source-guidelines](https://developers.eoscostarica.io/docs/open-source-guidelines).
 
 Please report bugs big and small by [opening an issue](https://github.com/EOS-Jungle-Testnet/docs.jungletestnet.io/issues).
 
