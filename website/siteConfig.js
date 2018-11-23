@@ -2,9 +2,9 @@
 // site configuration options.
 
 const siteConfig = {
-  title: 'Jungle Testnet Documentation', // Title for your website.
+  title: 'Jungle Testnet', // Title for your website.
   tagline: 'Jungle Testnet Community Documentation Site',
-  url: 'https://your-docusaurus-test-site.com', // Your website URL
+  url: 'https://docs.jungletestnet.io', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -19,22 +19,21 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {doc: 'installation', label: 'Docs'}
   ],
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  headerIcon: 'img/jungletestnet.svg',
+  footerIcon: 'img/jungletestnet.svg',
+  favicon: 'img/favicon/favicon.ico',
 
   /* Colors for website */
   colors: {
     primaryColor: '#2E8555',
     secondaryColor: '#205C3B',
   },
+
+  editUrl: 'https://github.com/EOS-Jungle-Testnet/docs.jungletestnet.io/tree/master/docs/',
 
   /* Custom fonts for website */
   /*
@@ -51,7 +50,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `${new Date().getFullYear()} Jungle Testnet`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -67,8 +66,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
+  ogImage: 'img/jungletestnet.png',
+  twitterImage: 'img/jungletestnet.png',
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
