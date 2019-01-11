@@ -4,7 +4,7 @@ title: Question & Answer
 sidebar_label: Question & Answer
 ---
 
-# Q&A
+## Q&A
 
 
 1. How init node first time 
