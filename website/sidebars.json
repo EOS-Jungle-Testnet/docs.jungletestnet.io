@@ -1,6 +1,7 @@
 {
   "docs": {
     "EOS Nodes": ["installation"],
-    "Smart Contracts": ["contracts"]
+    "Smart Contracts": ["contracts"],
+    "Question & Answer": ["qa"]
   }
 }
