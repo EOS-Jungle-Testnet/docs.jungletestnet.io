@@ -1,7 +1,7 @@
 ---
 id: contracts
-title: Deploying contracts to Jungle Testnet
-sidebar_label: Deploying Contracts
+title: Getting Started with Smart Contracts Development
+sidebar_label: Getting Started
 ---
 
 work in progress...

@@ -1,7 +1,7 @@
 ---
 id: qa
-title: Question & Answer
-sidebar_label: Question & Answer
+title: Questions & Answers
+sidebar_label: Questions & Answers
 ---
 
 ## Q&A
