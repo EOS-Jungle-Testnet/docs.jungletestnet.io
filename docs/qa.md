@@ -44,8 +44,9 @@ sidebar_label: Questions & Answers
 	- ./cleos.sh push action eosio buyrex '{"from":"**\<YOUR ACC\>**","amount":"**\<AMOUNT\>** EOS"}' -p **\<YOUR ACC\>**
 
 11. Snapshot(only for Ubuntu16/18) for oldschool full backup
-	- http://backup.jungletestnet.io
-
+	- [Ubuntu18](http://backup.jungletestnet.io/ubuntu18/)
+	- [Ubuntu16](http://backup.jungletestnet.io/ubuntu16/)
+	- restore: download last block and state for your OS, extract their and replace in your **\<NODE\>** folder
 12. Oldschool full backup
 	- stop node
 	- copy blocks and state folder(if you have the backup or download it from http://backup.jungletestnet.io (ubuntu 16/18)) 
