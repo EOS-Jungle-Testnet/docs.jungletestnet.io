@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Archived: this was the source of docs.jungletestnet.io (Docusaurus v1 on Netlify). The site has been offline since 2023.**
+> The content dates from the EOSIO era (last edited in March 2019) and doesn't match Jungle4 on AntelopeIO Spring.
+> For a current Jungle4 node setup, see https://github.com/EOS-Jungle-Testnet/Node-Manual-Installation.
+
 <p align="center">
 	<a href="https://jungletestnet.io">
 		<img src="logo.png" >
